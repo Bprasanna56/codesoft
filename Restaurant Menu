@@ -1,0 +1,32 @@
+<div class="menu-item">
+                <img src="https://via.placeholder.com/120/4CAF50/FFFFFF?text=Pasta+Alfredo" alt="Creamy Alfredo Pasta" class="item-image">
+                <div class="item-details">
+                    <h3>Creamy Alfredo Pasta</h3>
+                    <p>Fettuccine pasta tossed in a rich, creamy Parmesan sauce with grilled chicken or seasonal vegetables.</p>
+                </div>
+                <div class="item-price">₹780</div>
+            </div>
+            <div class="menu-item">
+                <img src="https://via.placeholder.com/120/2196F3/FFFFFF?text=Grilled+Salmon" alt="Pan-Seared Salmon" class="item-image">
+                <div class="item-details">
+                    <h3>Pan-Seared Salmon</h3>
+                    <p>Succulent salmon fillet perfectly seared, served with asparagus and lemon-butter sauce.</p>
+                </div>
+                <div class="item-price">₹950</div>
+            </div>
+        </div>
+
+        <div class="category">
+            <h2>Desserts</h2>
+            <div class="menu-item">
+                <img src="https://via.placeholder.com/120/9C27B0/FFFFFF?text=Chocolate+Lava" alt="Chocolate Lava Cake" class="item-image">
+                <div class="item-details">
+                    <h3>Decadent Chocolate Lava Cake</h3>
+                    <p>Warm chocolate cake with a molten center, served with vanilla bean ice cream.</p>
+                </div>
+                <div class="item-price">₹420</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
